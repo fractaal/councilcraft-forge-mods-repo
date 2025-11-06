@@ -1,0 +1,17 @@
+filename = 'DustyDecorations_1.20.1Forge_V1.0.jar'
+name = 'Dusty Decorations'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = '1fe402f2621760e8e425a148296638bcab799fdfbecc8f4c146d172214fd35ee254a00bddb40019d6cd6c7a598be7df9910ac8cc743df91e1b77ef274985239f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KgFOuaiZ/versions/zmgN8Y2Y/DustyDecorations_1.20.1Forge_V1.0.jar'
+
+[update.modrinth]
+mod-id = 'KgFOuaiZ'
+version = 'zmgN8Y2Y'

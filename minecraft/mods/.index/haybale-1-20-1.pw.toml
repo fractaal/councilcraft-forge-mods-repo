@@ -1,0 +1,17 @@
+filename = 'Haybale-forge-1.20.1-1.0.2.jar'
+name = 'Haybale-Ported'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Haybale-forge-1.20.1-1.0.2.jar'
+
+[download]
+hash = '3e236254adbaa362f7657cfb5e31569e253597df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6353927
+project-id = 1092172

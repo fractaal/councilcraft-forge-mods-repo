@@ -1,0 +1,17 @@
+filename = 'Mo-Glass-1.7.1-MC1.20.1-Forge.jar'
+name = 'Mo Glass'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Mo-Glass-1.7.1-MC1.20.1-Forge.jar'
+
+[download]
+hash = 'afdc8d92b848ece9a60449065b1b857278efa15a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5266122
+project-id = 353426

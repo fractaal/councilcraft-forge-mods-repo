@@ -1,0 +1,17 @@
+filename = 'stack-to-nearby-chests-mc1.20.1-0.5.10.jar'
+name = 'Stack to Nearby Chests'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.5.10'
+
+[download]
+hash = '6f2efa75879ac5f164d962fc321e77a418f05b0be3b0fa504be1ecd47ccb0b6e129841c1598415e09c67f796f4f830b560fee4cd6885e694909143978c11b1ec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HtGckJVc/versions/wMJlsfCI/stack-to-nearby-chests-mc1.20.1-0.5.10.jar'
+
+[update.modrinth]
+mod-id = 'HtGckJVc'
+version = 'wMJlsfCI'

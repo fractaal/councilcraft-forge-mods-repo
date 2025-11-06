@@ -1,0 +1,17 @@
+filename = 'amble-1.1.14-1.20.1+forge-beta.jar'
+name = 'AmbleKit'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.1.14-1.20.1+forge-beta'
+
+[download]
+hash = '4da9a405f70d6dd5e065363bdfd7a525fc0bf682f7893dccd3f902c3d935a54758a07bfa111cfa3b3a7791ab4f876baa6bbe110b18bd2cae2b58f0d0f81fe682'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZNWAUUsB/versions/icTF9K2m/amble-1.1.14-1.20.1%2Bforge-beta.jar'
+
+[update.modrinth]
+mod-id = 'ZNWAUUsB'
+version = 'icTF9K2m'

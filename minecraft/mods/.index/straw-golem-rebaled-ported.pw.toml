@@ -1,0 +1,17 @@
+filename = 'Strawgolem-forge-1.20.1-3.1.1.jar'
+name = 'Straw Golem Rebaled: Ported'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.1.1'
+
+[download]
+hash = '260186d121fa18ec59d76af95abcd6112044f31876dfc023731b73c818dbf0a4317efddd2b817af2dc0b93b02db92fe2b5598bde15c724e81d8b7517e606672f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Lv51AjnX/versions/reAw1Snh/Strawgolem-forge-1.20.1-3.1.1.jar'
+
+[update.modrinth]
+mod-id = 'Lv51AjnX'
+version = 'reAw1Snh'

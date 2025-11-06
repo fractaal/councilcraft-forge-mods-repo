@@ -1,0 +1,17 @@
+filename = 'muffins_picnic-1.0.0-forge.jar'
+name = "Muffin's Picnic"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge & NeoForge 1.20.1] 1.0.0'
+
+[download]
+hash = '708cb1bf101cdd2d4f6844a9e001398cf5c7dc63'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5064693
+project-id = 967871
