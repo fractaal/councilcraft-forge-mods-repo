@@ -1,0 +1,17 @@
+filename = 'DragNs_Vehicles-1.20.1-1.4.1.jar'
+name = "DragN's Valiant Vehicles!"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DragNs_Vehicles-1.20.1-1.4.1.jar'
+
+[download]
+hash = '15ddb630a2b60d9024fc1a6bcb9cb79c95cd61cd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7104586
+project-id = 1038652

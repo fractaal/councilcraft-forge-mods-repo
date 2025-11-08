@@ -1,0 +1,17 @@
+filename = 'vs_sails-1.20.1-0.2.2-forge.jar'
+name = 'Valkyrien Sails'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.20.1-0.2.2-forge'
+
+[download]
+hash = '1665b58e832f5e317769531f0ad267f80bd3706ad72ef3f2105615157be6903cc606fb2d2c4e42fe27f6c766ba76d34ef8fc1d36291a59350381d3fb3f84befa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/esFadCt9/versions/mzDi7kuP/vs_sails-1.20.1-0.2.2-forge.jar'
+
+[update.modrinth]
+mod-id = 'esFadCt9'
+version = 'mzDi7kuP'
