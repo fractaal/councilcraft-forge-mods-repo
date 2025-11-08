@@ -1,0 +1,17 @@
+filename = 'wood_enjoyer-forge-1.20-1.1.2.jar'
+name = 'Wood Enjoyer'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.2'
+
+[download]
+hash = 'a024bac0cac032a204962b2d7792c28379ff7ab9b082b757e179ecd15ec4863aaca5de750d754262765c6fee8cf28dd56cbf7e61e94c7df3bc931372660a1d93'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hLmXuDgd/versions/Pj64my9p/wood_enjoyer-forge-1.20-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'hLmXuDgd'
+version = 'Pj64my9p'

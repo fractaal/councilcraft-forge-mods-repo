@@ -1,0 +1,17 @@
+filename = 'mna-forge-1.20.1-3.1.11-all.jar'
+name = 'Mana and Artifice'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.1.11'
+
+[download]
+hash = '1a571bf1dca7a56c7cd9af318a6f8b461aa55ae28eddfd91f344041bd7f252a76ba9cfef9ff123ce67ab3ab888ffcad3a199b34f48a099eb4cccc9cb19559ab4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zaRGNexp/versions/odH1eB1x/mna-forge-1.20.1-3.1.11-all.jar'
+
+[update.modrinth]
+mod-id = 'zaRGNexp'
+version = 'odH1eB1x'

@@ -1,0 +1,17 @@
+filename = 'ValkyrienPirates-1.8.1-forge.jar'
+name = 'Valkyrien Pirates'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.8.1'
+
+[download]
+hash = 'f472430f50bbcda60e5107691a59620ccf612fc9a540dafcdc9ab73b0cdb9bfc94b803aefb61664c043b872694b3bd6f53b578a6252804da83f572c087361b3a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jv8hXuHT/versions/tbuylwzU/ValkyrienPirates-1.8.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'jv8hXuHT'
+version = 'tbuylwzU'
